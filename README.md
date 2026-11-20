@@ -6,7 +6,9 @@ A Model Context Protocol (MCP) server for the [NAHPU](https://github.com/nahpu) 
 
 Pudu connects AI assistants to discover NAHPU features, troubleshoot issues, generate document templates, configure data exports, and interact with scientific data workflows using natural language.
 
-Named after the pudu, one of the world's smallest deer, Pudu follows the naming tradition of the NAHPU ecosystem.
+## Etymology
+
+Named after the [pudu (_Pudu puda_)](https://www.mammaldiversity.org/taxon/1006305/), one of the world's smallest deer native to southern Chile and southwestern Argentina. Pudu follows the naming tradition of the NAHPU ecosystem.
 
 ## Overview
 
