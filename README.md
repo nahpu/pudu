@@ -8,7 +8,7 @@ Pudu connects AI assistants to discover NAHPU features, troubleshoot issues, gen
 
 ## Etymology
 
-Named after the [pudu (_Pudu puda_)](https://www.mammaldiversity.org/taxon/1006305/), one of the world's smallest deer native to southern Chile and southwestern Argentina. Pudu follows the naming tradition of the NAHPU ecosystem.
+Named after[pudu (_Pudu puda_)](https://www.mammaldiversity.org/taxon/1006305/), one of the world's smallest deer native to southern Chile and southwestern Argentina. Pudu follows the naming tradition of the NAHPU ecosystem.
 
 ## Overview
 
