@@ -4,7 +4,7 @@ _Protocol for Unified Data Utilities_
 
 A Model Context Protocol (MCP) server for the [NAHPU](https://github.com/nahpu) ecosystem.
 
-Pudu connects AI assistants to natural history collection tools, documentation, and data utilities through a standardized, interoperable interface. It enables users to discover NAHPU features, troubleshoot issues, generate document templates, configure data exports, and interact with scientific data workflows using natural language.
+Pudu connects AI assistants to discover NAHPU features, troubleshoot issues, generate document templates, configure data exports, and interact with scientific data workflows using natural language.
 
 Named after the pudu, one of the world's smallest deer, Pudu follows the naming tradition of the NAHPU ecosystem.
 
